@@ -1,0 +1,12 @@
+/home/samer/Tasks/YOLO_Task/Train_Data/images/0010.jpg
+/home/samer/Tasks/YOLO_Task/Train_Data/images/0020.jpg
+/home/samer/Tasks/YOLO_Task/Train_Data/images/0030.jpg
+/home/samer/Tasks/YOLO_Task/Train_Data/images/0040.jpg
+/home/samer/Tasks/YOLO_Task/Train_Data/images/0049.jpg
+/home/samer/Tasks/YOLO_Task/Train_Data/images/10000.jpg
+/home/samer/Tasks/YOLO_Task/Train_Data/images/10010.jpg
+/home/samer/Tasks/YOLO_Task/Train_Data/images/10020.jpg
+/home/samer/Tasks/YOLO_Task/Train_Data/images/10030.jpg
+/home/samer/Tasks/YOLO_Task/Train_Data/images/10040.jpg
+/home/samer/Tasks/YOLO_Task/Train_Data/images/10049.jpg
+

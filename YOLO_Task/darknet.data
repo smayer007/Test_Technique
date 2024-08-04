@@ -1,0 +1,5 @@
+classes = 1
+train = /home/samer/Tasks/YOLO_Task/Train_Images.txt
+valid = /home/samer/Tasks/YOLO_Task/Test_Images.txt
+names = /home/samer/Tasks/YOLO_Task/classes.names
+backup = /home/samer/Tasks/YOLO_Task
