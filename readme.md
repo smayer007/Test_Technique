@@ -5,7 +5,7 @@ Cette répertoire contient l'implémentation des deux taches spécifiées dans l
 ## Installation 
 1) Cloner le répertoire :
 
-```git clone``` 
+```git clone https://github.com/smayer007/Test_Technique.git``` 
 
 2) Installer les dépendances : 
 
